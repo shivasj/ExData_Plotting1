@@ -1,4 +1,4 @@
-## R Script to Generate Plot 1 for the Assigment 1
+## R Script to Generate Plot 1 for Course Project 1
 
 # Set working folder
 setwd("/Sync/Development/Git Forks/ExData_Plotting1")
